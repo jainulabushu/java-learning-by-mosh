@@ -1,11 +1,11 @@
 # java-learning-by-mosh
 created java scripts
-package com.company;
 
 mortgage calculator in java scripts M = p * r(1+r)^n/ r(1+r)^n-1
 
+package com.company;
 
-import java.security.Principal;
+
 import java.text.NumberFormat;
 import java.util.Scanner;
 
@@ -36,6 +36,4 @@ public class Main {
         System.out.print("Mortgage: " + mortgageFormated);
 
     }
-
-
 }
