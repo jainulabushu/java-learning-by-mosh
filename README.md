@@ -1,4 +1,4 @@
-# java-learning-by-mosh
+# mortgage calculator using java
 created java scripts
 
 mortgage calculator in java scripts M = p * r(1+r)^n/ r(1+r)^n-1
